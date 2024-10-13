@@ -1,5 +1,5 @@
 {
-    "name": "My Example Source",
+    "name": "test",
     "subtitle": "All my apps in one place.",
     "description": "Welcome to my source! Here you'll find all of my apps.",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
@@ -12,9 +12,9 @@
     ],
     "apps": [
         {
-            "name": "My Example App",
+            "name": "test",
             "bundleIdentifier": "com.example.myapp",
-            "developerName": "Example Developer",
+            "developerName": "Test",
             "subtitle": "An awesome app.",
             "localizedDescription": "This is an awesome app only available on AltStore.",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
@@ -127,7 +127,7 @@
     ],
     "news": [
         {
-            "title": "New Feature Announcement",
+            "title": "test",
             "identifier": "new_feature",
             "caption": "Introducing a new feature in AltStore!",
             "date": "2023-03-15",
