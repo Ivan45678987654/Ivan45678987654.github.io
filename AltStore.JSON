@@ -1,7 +1,7 @@
 {
-    "name": "test",
-    "subtitle": "All my apps in one place.",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "name": "Games",
+    "subtitle": "Minecraft",
+    "description": "Майнкрафт бесплатно!",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://example.com",
@@ -12,12 +12,12 @@
     ],
     "apps": [
         {
-            "name": "test",
-            "bundleIdentifier": "com.example.myapp",
-            "developerName": "Test",
-            "subtitle": "An awesome app.",
-            "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "name": "Minecraft",
+            "bundleIdentifier": "com.mojang.minecraft",
+            "developerName": "Mojang",
+            "subtitle": "Эта игра о соеденении блоков",
+            "localizedDescription": "Эта игра о соеденении блоков",
+            "iconURL": "https://cdn.discordapp.com/attachments/1236308934562942998/1295088247768223866/IMG_1241.png?ex=670d606b&is=670c0eeb&hm=7b251e06c0547d0c8400a82f2d448926ba5684e2783a04b1b20f31dee54b1015&",
             "tintColor": "#5CA399",
             "screenshots": [
                 "https://example.com/myapp_portrait_screenshot1.png",
@@ -30,11 +30,11 @@
             ],
             "versions": [
                 {
-                    "version": "1.1",
+                    "version": "1.21.31",
                     "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
-                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
-                    "localizedDescription": "New features and bug fixes.",
+                    "downloadURL": "https://dl.mcpelife.com/minecraft-ipa/1-21-31/Minecraft-v1.21.31.ipa",
+                    "localizedDescription": "Bedrock Edition",
                     "minOSVersion": "12.0"
                 },
                 {
