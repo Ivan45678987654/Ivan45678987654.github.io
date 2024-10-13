@@ -7,7 +7,7 @@
     "website": "https://example.com",
     "tintColor": "#4185A9",
     "featuredApps": [
-        "com.example.myapp",
+        "com.mojang.minecraftpe",
         "com.example.anotherapp"
     ],
     "apps": [
