@@ -1,7 +1,7 @@
 {
-    "name": "Games",
-    "subtitle": "Minecraft",
-    "description": "Майнкрафт бесплатно!",
+    "name": "Free Minecraft",
+    "subtitle": "All my apps in one place.",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://example.com",
@@ -13,11 +13,11 @@
     "apps": [
         {
             "name": "Minecraft",
-            "bundleIdentifier": "com.mojang.minecraft",
+            "bundleIdentifier": "com.example.myapp",
             "developerName": "Mojang",
-            "subtitle": "Bedrock Edition!",
-            "localizedDescription": "Block Game",
-            "iconURL": "https://cdn.discordapp.com/attachments/1236308934562942998/1295088247768223866/IMG_1241.png?ex=670d606b&is=670c0eeb&hm=7b251e06c0547d0c8400a82f2d448926ba5684e2783a04b1b20f31dee54b1015&",
+            "subtitle": "Minecraft Free!!!",
+            "localizedDescription": "This is an awesome app only available on AltStore.",
+            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
             "tintColor": "#5CA399",
             "screenshots": [
                 "https://example.com/myapp_portrait_screenshot1.png",
@@ -34,7 +34,7 @@
                     "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
                     "downloadURL": "https://dl.mcpelife.com/minecraft-ipa/1-21-31/Minecraft-v1.21.31.ipa",
-                    "localizedDescription": "Bedrock Edition",
+                    "localizedDescription": "New features and bug fixes.",
                     "minOSVersion": "12.0"
                 },
                 {
@@ -58,7 +58,7 @@
             }
         },
         {
-            "name": "Another Example App",
+            "name": "Minecraft Education",
             "bundleIdentifier": "com.example.anotherapp",
             "developerName": "Example Developer",
             "subtitle": "Another awesome app.",
@@ -127,7 +127,7 @@
     ],
     "news": [
         {
-            "title": "test",
+            "title": "New Feature Announcement",
             "identifier": "new_feature",
             "caption": "Introducing a new feature in AltStore!",
             "date": "2023-03-15",
