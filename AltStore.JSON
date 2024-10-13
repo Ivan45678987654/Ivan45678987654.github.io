@@ -13,7 +13,7 @@
     "apps": [
         {
             "name": "Minecraft",
-            "bundleIdentifier": "com.example.myapp",
+            "bundleIdentifier": "com.mojang.minecraftpe",
             "developerName": "Mojang",
             "subtitle": "Minecraft Free!!!",
             "localizedDescription": "This is an awesome app only available on AltStore.",
