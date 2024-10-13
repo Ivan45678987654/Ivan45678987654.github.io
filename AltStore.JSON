@@ -15,8 +15,8 @@
             "name": "Minecraft",
             "bundleIdentifier": "com.mojang.minecraft",
             "developerName": "Mojang",
-            "subtitle": "Эта игра о соеденении блоков",
-            "localizedDescription": "Эта игра о соеденении блоков",
+            "subtitle": "Bedrock Edition!",
+            "localizedDescription": "Block Game",
             "iconURL": "https://cdn.discordapp.com/attachments/1236308934562942998/1295088247768223866/IMG_1241.png?ex=670d606b&is=670c0eeb&hm=7b251e06c0547d0c8400a82f2d448926ba5684e2783a04b1b20f31dee54b1015&",
             "tintColor": "#5CA399",
             "screenshots": [
