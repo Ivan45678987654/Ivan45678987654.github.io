@@ -48,7 +48,7 @@
             "appPermissions": {
                 "entitlements": [
                     "com.apple.private.skip-library-vaildation",
-                    "com.apple.developers.networking.multicast"
+                    "com.apple.developers.networking.multicast",
                     "com.apple.developers.pass-type-indentifiers"
                 ],
                 "privacy": {
