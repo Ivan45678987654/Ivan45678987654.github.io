@@ -48,11 +48,8 @@
             "appPermissions": {
                 "entitlements": [
                     "com.apple.private.skip-library-vaildation",
-                    "get-task-allow"
-                    "keychain-access-groups"
                     "com.apple.developers.networking.multicast"
                     "com.apple.developers.pass-type-indentifiers"
-                    "aps-environment"
                 ],
                 "privacy": {
                     "NSContactsUsageDescription": "Contacts",
